@@ -1,0 +1,63 @@
+gabin@DESKTOP-22OB57P MINGW64 ~/dia-1-primeiros-passos/tarefa-dia-1
+$ history
+    1  git --version
+    2  node --version
+    3  git --version
+    4  node --version
+    5  pwd
+    6  ls
+    7  pwd
+    8  clear
+    9  pwd
+   10  cd
+   11  ls
+   12  cd desktop
+   13  cd area de trabalho
+   14  ls
+   15  cd menu iniciar
+   16  cd documents
+   17  cd ..
+   18  ls
+   19  cd proJEtos
+   20  ls
+   21  pwd
+   22  cd ..
+   23  pwd
+   24  ls
+   25  cd area de trabalho.lnk
+   26  cd area de trabalho
+   27  pwd
+   28  cd nova pasta
+   29  clear
+   30  pwd
+   31  ls
+   32  cd 'nova pasta'
+   33  ls
+   34  cd ..
+   35  mkdir dia-1-primeiros-passos
+   36  cd dia-1-primeiros-passos
+   37  mkdir tarefa-dia-1
+   38  pwd
+   39  ls
+   40  cs tarefa-dia-1/
+   41  cd tarefa-dia-1/
+   42  touch resumo-dia-1.md
+   43  head
+   44  pwd
+   45  ls
+   46  cat resumo-dia-1.md
+   47  head resumo-dia-1.md
+   48  pwd
+   49  cd resumo-dia-1.md
+   50  geap resumo-dia-1.md
+   51  geap trabalha
+   52  pwd
+   53  ls
+   54  head resumo-dia-1.md
+   55  geap lista resumo-dia-1.md
+   56  grep lista resumo-dia-1.md
+   57  grep codigo resumo-dia-1.md
+   58  pwd
+   59  grep programação resumo-dia-1.md
+   60  clear
+   61  history
