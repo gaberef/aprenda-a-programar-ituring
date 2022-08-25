@@ -7,6 +7,6 @@
 let Seu nome =  "Gabriel"
 let Profissão = "Desenvolvedor"
 let Emmail = "gabiniger@hotmail.com"
-let Idae = "25 anos"
+let Idae = 25 
 let lugar que você sonha um dia conhecer = "Fortaleza"
 
